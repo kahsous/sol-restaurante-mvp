@@ -1,0 +1,1 @@
+ALTER TABLE public.restaurant_settings ADD COLUMN hero_url text DEFAULT NULL;
